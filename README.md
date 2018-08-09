@@ -4,23 +4,18 @@
 
 I live in the city of Tehran, in the state of Tehran, in the Iran.
 
-### Reading
+### Projects
 
-Three of my favorite books are:
+Projetcs during my BSc:
 
-- *Mindstorms* by Seymour Papert
-- *Welcome to the Monkey House* by Kurt Vonnegut
-- *Persepolis* by Marjane Satrapi
+- *Cosmological Perturbation Theory* Supervisor: Prof.Hassan Firouzjahi
+- *Quasi-Normal Modes of Black Holes* Supervisor: Prof.Hassan Firouzjahi
+- *Quasi-Single Field Inflation* Supervisor: Prof.Hassan Firouzjahi
 
-### Food
-
-Last night I dreamt about eating in these restaurants:
-
-1. Linger in Denver.
-2. Azura in Jerusalem.
-3. Gemma in New York City.
 
 ### Contact
 
 The best way to get in touch with me is [on 
 Facebook](https://www.facebook.com/?_rdr=p).
+
+Email: [reza.ebadi.1996@gmail.com](reza.ebadi.1996@gmail.com)
